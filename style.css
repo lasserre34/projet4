@@ -59,7 +59,7 @@ button{outline:0!important}.btn-rd{border-radius:40px}.btn-clean{border:1px soli
 .b-parallax{background-attachment:scroll}.navbar .nav{padding-top:0;border-top:1px solid rgba(0,0,0,.2);float:none!important}.navbar.row{margin-left:0;margin-right:0}
 .site-navigation{position:inherit;transform:none;-webkit-transform:none;-ms-transform:none}
 .nav>li{margin-top:0;border-bottom:1px solid rgba(0,0,0,.1);background:rgba(0,0,0,.05);text-align:left;padding-left:15px;width:100%}
-.nav>li:hover{background:rgba(0,0,0,.08)}
+.nav>li{background:rgba(0,0,0,.08)}
 
 
 
